@@ -349,8 +349,8 @@ let arbitrary_code_execution_under_lock =
 
 
 let bad_arg =
-  register_with_latent ~category:RuntimeException ~id:"BAD_ARG" Error Pulse
-    ~user_documentation:[%blob "./documentation/issues/BAD_ARG.md"]
+  register_with_latent ~category:RuntimeException ~id:"BAD_ARGUMENT" Error Pulse
+    ~user_documentation:[%blob "./documentation/issues/BAD_ARGUMENT.md"]
 
 
 let bad_generator =
