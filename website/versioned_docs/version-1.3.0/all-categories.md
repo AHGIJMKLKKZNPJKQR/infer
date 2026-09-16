@@ -111,8 +111,8 @@ Issue types in this category:
 A runtime exception can occur and potentially crash the program.
 
 Issue types in this category:
-- [BAD_ARG](/docs/all-issue-types#bad_arg)
-- [BAD_ARG_LATENT](/docs/all-issue-types#bad_arg_latent)
+- [BAD_ARGUMENT](/docs/all-issue-types#bad_argument)
+- [BAD_ARGUMENT_LATENT](/docs/all-issue-types#bad_argument_latent)
 - [BAD_GENERATOR](/docs/all-issue-types#bad_generator)
 - [BAD_GENERATOR_LATENT](/docs/all-issue-types#bad_generator_latent)
 - [BAD_KEY](/docs/all-issue-types#bad_key)

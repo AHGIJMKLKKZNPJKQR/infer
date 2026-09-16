@@ -34,7 +34,7 @@ Example:
   }
 ```
 
-## BAD_ARG
+## BAD_ARGUMENT
 
 *Category: [Runtime exception](/docs/all-categories#runtime-exception). Reported as "Bad Arg" by [pulse](/docs/checker-pulse).*
 
@@ -53,11 +53,11 @@ g() ->
     [1,2] ++ 3. // no error. Result: [1,2|3]
 ```
 
-## BAD_ARG_LATENT
+## BAD_ARGUMENT_LATENT
 
 *Category: [Runtime exception](/docs/all-categories#runtime-exception). Reported as "Bad Arg Latent" by [pulse](/docs/checker-pulse).*
 
-A latent [BAD_ARG](#bad_arg). See the [documentation on Pulse latent issues](/docs/checker-pulse#latent-issues).
+A latent [BAD_ARGUMENT](#bad_argument). See the [documentation on Pulse latent issues](/docs/checker-pulse#latent-issues).
 ## BAD_GENERATOR
 
 *Category: [Runtime exception](/docs/all-categories#runtime-exception). Reported as "Bad Generator" by [pulse](/docs/checker-pulse).*

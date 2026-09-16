@@ -113,8 +113,8 @@ Issue types in this category:
 A runtime exception can occur and potentially crash the program.
 
 Issue types in this category:
-- [BAD_ARG](/docs/next/all-issue-types#bad_arg)
-- [BAD_ARG_LATENT](/docs/next/all-issue-types#bad_arg_latent)
+- [BAD_ARGUMENT](/docs/next/all-issue-types#bad_argument)
+- [BAD_ARGUMENT_LATENT](/docs/next/all-issue-types#bad_argument_latent)
 - [BAD_GENERATOR](/docs/next/all-issue-types#bad_generator)
 - [BAD_GENERATOR_LATENT](/docs/next/all-issue-types#bad_generator_latent)
 - [BAD_KEY](/docs/next/all-issue-types#bad_key)

@@ -104,8 +104,8 @@ OPTIONS
            Available issue types are as follows:
              
            ARBITRARY_CODE_EXECUTION_UNDER_LOCK (enabled by default),
-             BAD_ARG (enabled by default),
-             BAD_ARG_LATENT (disabled by default),
+             BAD_ARGUMENT (enabled by default),
+             BAD_ARGUMENT_LATENT (disabled by default),
              BAD_GENERATOR (enabled by default),
              BAD_GENERATOR_LATENT (disabled by default),
              BAD_KEY (enabled by default),
